@@ -1,3 +1,5 @@
+## exercise1_Strings.py - Using Strings
+#
 # In this exercise we will be working with strings
 # 1) We will be reading input from the console (similar to example2_ReadConsole.py)
 # 2) We will concatenate our input strings
